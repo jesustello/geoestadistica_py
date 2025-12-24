@@ -1,0 +1,321 @@
+Ano,Clave_Ent,Entidad,Delito,Val_Abs,Val_Rel
+2023,1,Aguascalientes,Robo,45,17.44%
+2023,2,Baja California,Robo,3,5.56%
+2023,3,Baja California Sur,Robo,1,50.00%
+2023,4,Campeche,Robo,29,64.44%
+2023,5,Coahuila de Zaragoza,Robo,6,4.65%
+2023,6,Colima,Robo,2,5.71%
+2023,7,Chiapas,Robo,189,37.88%
+2023,8,Chihuahua,Robo,10,14.71%
+2023,9,Ciudad de Mexico,Robo,1545,71.63%
+2023,10,Durango,Robo,3,30.00%
+2023,11,Guanajuato,Robo,11,13.25%
+2023,12,Guerrero,Robo,10,29.41%
+2023,13,Hidalgo,Robo,11,34.38%
+2023,14,Jalisco,Robo,7,35.00%
+2023,15,Mexico,Robo,7,0.74%
+2023,16,Michoacan de Ocampo,Robo,0,NA
+2023,17,Morelos,Robo,31,31.31%
+2023,18,Nayarit,Robo,12,12.77%
+2023,19,Nuevo Leon,Robo,44,13.84%
+2023,20,Oaxaca,Robo,NA,NA
+2023,21,Puebla,Robo,17,40.48%
+2023,22,Queretaro,Robo,20,25.64%
+2023,23,Quintana Roo,Robo,16,11.19%
+2023,24,San Luis Potosi,Robo,37,11.86%
+2023,25,Sinaloa,Robo,2,22.22%
+2023,26,Sonora,Robo,13,21.67%
+2023,27,Tabasco,Robo,18,58.06%
+2023,28,Tamaulipas,Robo,14,56.00%
+2023,29,Tlaxcala,Robo,6,66.67%
+2023,30,Veracruz de Ignacio de la Llave,Robo,12,17.91%
+2023,31,Yucatan,Robo,13,25.00%
+2023,32,Zacatecas,Robo,13,22.81%
+2023,1,Aguascalientes,Narcomenudeo,83,32.17%
+2023,2,Baja California,Narcomenudeo,27,50.00%
+2023,3,Baja California Sur,Narcomenudeo,0,0.00%
+2023,4,Campeche,Narcomenudeo,4,8.89%
+2023,5,Coahuila de Zaragoza,Narcomenudeo,89,68.99%
+2023,6,Colima,Narcomenudeo,6,17.14%
+2023,7,Chiapas,Narcomenudeo,0,0.00%
+2023,8,Chihuahua,Narcomenudeo,26,38.24%
+2023,9,Ciudad de Mexico,Narcomenudeo,258,11.96%
+2023,10,Durango,Narcomenudeo,1,10.00%
+2023,11,Guanajuato,Narcomenudeo,63,75.90%
+2023,12,Guerrero,Narcomenudeo,20,58.82%
+2023,13,Hidalgo,Narcomenudeo,8,25.00%
+2023,14,Jalisco,Narcomenudeo,6,30.00%
+2023,15,Mexico,Narcomenudeo,11,1.17%
+2023,16,Michoacan de Ocampo,Narcomenudeo,0,NA
+2023,17,Morelos,Narcomenudeo,16,16.16%
+2023,18,Nayarit,Narcomenudeo,39,41.49%
+2023,19,Nuevo Leon,Narcomenudeo,196,61.64%
+2023,20,Oaxaca,Narcomenudeo,NA,NA
+2023,21,Puebla,Narcomenudeo,8,19.05%
+2023,22,Queretaro,Narcomenudeo,48,61.54%
+2023,23,Quintana Roo,Narcomenudeo,58,40.56%
+2023,24,San Luis Potosi,Narcomenudeo,194,62.18%
+2023,25,Sinaloa,Narcomenudeo,1,11.11%
+2023,26,Sonora,Narcomenudeo,22,36.67%
+2023,27,Tabasco,Narcomenudeo,0,0.00%
+2023,28,Tamaulipas,Narcomenudeo,3,12.00%
+2023,29,Tlaxcala,Narcomenudeo,0,0.00%
+2023,30,Veracruz de Ignacio de la Llave,Narcomenudeo,0,0.00%
+2023,31,Yucatan,Narcomenudeo,4,7.69%
+2023,32,Zacatecas,Narcomenudeo,8,14.04%
+2023,1,Aguascalientes,Armas_obj_perd,0,0.00%
+2023,2,Baja California,Armas_obj_perd,0,0.00%
+2023,3,Baja California Sur,Armas_obj_perd,0,0.00%
+2023,4,Campeche,Armas_obj_perd,0,0.00%
+2023,5,Coahuila de Zaragoza,Armas_obj_perd,3,2.33%
+2023,6,Colima,Armas_obj_perd,0,0.00%
+2023,7,Chiapas,Armas_obj_perd,0,0.00%
+2023,8,Chihuahua,Armas_obj_perd,0,0.00%
+2023,9,Ciudad de Mexico,Armas_obj_perd,0,0.00%
+2023,10,Durango,Armas_obj_perd,0,0.00%
+2023,11,Guanajuato,Armas_obj_perd,0,0.00%
+2023,12,Guerrero,Armas_obj_perd,0,0.00%
+2023,13,Hidalgo,Armas_obj_perd,NSS,NA
+2023,14,Jalisco,Armas_obj_perd,0,0.00%
+2023,15,Mexico,Armas_obj_perd,673,71.44%
+2023,16,Michoacan de Ocampo,Armas_obj_perd,0,NA
+2023,17,Morelos,Armas_obj_perd,0,0.00%
+2023,18,Nayarit,Armas_obj_perd,0,0.00%
+2023,19,Nuevo Leon,Armas_obj_perd,0,0.00%
+2023,20,Oaxaca,Armas_obj_perd,NA,NA
+2023,21,Puebla,Armas_obj_perd,0,0.00%
+2023,22,Queretaro,Armas_obj_perd,3,3.85%
+2023,23,Quintana Roo,Armas_obj_perd,0,0.00%
+2023,24,San Luis Potosi,Armas_obj_perd,44,14.10%
+2023,25,Sinaloa,Armas_obj_perd,0,0.00%
+2023,26,Sonora,Armas_obj_perd,0,0.00%
+2023,27,Tabasco,Armas_obj_perd,2,6.45%
+2023,28,Tamaulipas,Armas_obj_perd,0,0.00%
+2023,29,Tlaxcala,Armas_obj_perd,0,0.00%
+2023,30,Veracruz de Ignacio de la Llave,Armas_obj_perd,0,0.00%
+2023,31,Yucatan,Armas_obj_perd,0,0.00%
+2023,32,Zacatecas,Armas_obj_perd,0,0.00%
+2023,1,Aguascalientes,Lesiones,41,15.89%
+2023,2,Baja California,Lesiones,0,0.00%
+2023,3,Baja California Sur,Lesiones,0,0.00%
+2023,4,Campeche,Lesiones,2,4.44%
+2023,5,Coahuila de Zaragoza,Lesiones,3,2.33%
+2023,6,Colima,Lesiones,1,2.86%
+2023,7,Chiapas,Lesiones,117,23.45%
+2023,8,Chihuahua,Lesiones,1,1.47%
+2023,9,Ciudad de Mexico,Lesiones,138,6.40%
+2023,10,Durango,Lesiones,1,10.00%
+2023,11,Guanajuato,Lesiones,0,0.00%
+2023,12,Guerrero,Lesiones,0,0.00%
+2023,13,Hidalgo,Lesiones,0,0.00%
+2023,14,Jalisco,Lesiones,1,5.00%
+2023,15,Mexico,Lesiones,73,7.75%
+2023,16,Michoacan de Ocampo,Lesiones,0,NA
+2023,17,Morelos,Lesiones,20,20.20%
+2023,18,Nayarit,Lesiones,10,10.64%
+2023,19,Nuevo Leon,Lesiones,22,6.92%
+2023,20,Oaxaca,Lesiones,NA,NA
+2023,21,Puebla,Lesiones,0,0.00%
+2023,22,Queretaro,Lesiones,1,1.28%
+2023,23,Quintana Roo,Lesiones,35,24.48%
+2023,24,San Luis Potosi,Lesiones,2,0.64%
+2023,25,Sinaloa,Lesiones,0,0.00%
+2023,26,Sonora,Lesiones,1,1.67%
+2023,27,Tabasco,Lesiones,4,12.90%
+2023,28,Tamaulipas,Lesiones,1,4.00%
+2023,29,Tlaxcala,Lesiones,0,0.00%
+2023,30,Veracruz de Ignacio de la Llave,Lesiones,10,14.93%
+2023,31,Yucatan,Lesiones,8,15.38%
+2023,32,Zacatecas,Lesiones,1,1.75%
+2023,1,Aguascalientes,Violencia_fam,12,4.65%
+2023,2,Baja California,Violencia_fam,0,0.00%
+2023,3,Baja California Sur,Violencia_fam,0,0.00%
+2023,4,Campeche,Violencia_fam,0,0.00%
+2023,5,Coahuila de Zaragoza,Violencia_fam,0,0.00%
+2023,6,Colima,Violencia_fam,0,0.00%
+2023,7,Chiapas,Violencia_fam,72,14.43%
+2023,8,Chihuahua,Violencia_fam,2,2.94%
+2023,9,Ciudad de Mexico,Violencia_fam,21,0.97%
+2023,10,Durango,Violencia_fam,0,0.00%
+2023,11,Guanajuato,Violencia_fam,0,0.00%
+2023,12,Guerrero,Violencia_fam,4,11.76%
+2023,13,Hidalgo,Violencia_fam,0,0.00%
+2023,14,Jalisco,Violencia_fam,1,5.00%
+2023,15,Mexico,Violencia_fam,10,1.06%
+2023,16,Michoacan de Ocampo,Violencia_fam,0,NA
+2023,17,Morelos,Violencia_fam,2,2.02%
+2023,18,Nayarit,Violencia_fam,6,6.38%
+2023,19,Nuevo Leon,Violencia_fam,8,2.52%
+2023,20,Oaxaca,Violencia_fam,NA,NA
+2023,21,Puebla,Violencia_fam,0,0.00%
+2023,22,Queretaro,Violencia_fam,0,0.00%
+2023,23,Quintana Roo,Violencia_fam,0,0.00%
+2023,24,San Luis Potosi,Violencia_fam,5,1.60%
+2023,25,Sinaloa,Violencia_fam,0,0.00%
+2023,26,Sonora,Violencia_fam,24,40.00%
+2023,27,Tabasco,Violencia_fam,0,0.00%
+2023,28,Tamaulipas,Violencia_fam,0,0.00%
+2023,29,Tlaxcala,Violencia_fam,0,0.00%
+2023,30,Veracruz de Ignacio de la Llave,Violencia_fam,3,4.48%
+2023,31,Yucatan,Violencia_fam,0,0.00%
+2023,32,Zacatecas,Violencia_fam,0,0.00%
+2023,1,Aguascalientes,Armas_expl,2,0.78%
+2023,2,Baja California,Armas_expl,20,37.04%
+2023,3,Baja California Sur,Armas_expl,0,0.00%
+2023,4,Campeche,Armas_expl,0,0.00%
+2023,5,Coahuila de Zaragoza,Armas_expl,0,0.00%
+2023,6,Colima,Armas_expl,0,0.00%
+2023,7,Chiapas,Armas_expl,0,0.00%
+2023,8,Chihuahua,Armas_expl,0,0.00%
+2023,9,Ciudad de Mexico,Armas_expl,26,1.21%
+2023,10,Durango,Armas_expl,0,0.00%
+2023,11,Guanajuato,Armas_expl,9,10.84%
+2023,12,Guerrero,Armas_expl,0,0.00%
+2023,13,Hidalgo,Armas_expl,4,12.50%
+2023,14,Jalisco,Armas_expl,2,10.00%
+2023,15,Mexico,Armas_expl,3,0.32%
+2023,16,Michoacan de Ocampo,Armas_expl,0,NA
+2023,17,Morelos,Armas_expl,8,8.08%
+2023,18,Nayarit,Armas_expl,2,2.13%
+2023,19,Nuevo Leon,Armas_expl,1,0.31%
+2023,20,Oaxaca,Armas_expl,NA,NA
+2023,21,Puebla,Armas_expl,11,26.19%
+2023,22,Queretaro,Armas_expl,3,3.85%
+2023,23,Quintana Roo,Armas_expl,9,6.29%
+2023,24,San Luis Potosi,Armas_expl,6,1.92%
+2023,25,Sinaloa,Armas_expl,4,44.44%
+2023,26,Sonora,Armas_expl,0,0.00%
+2023,27,Tabasco,Armas_expl,2,6.45%
+2023,28,Tamaulipas,Armas_expl,1,4.00%
+2023,29,Tlaxcala,Armas_expl,1,11.11%
+2023,30,Veracruz de Ignacio de la Llave,Armas_expl,10,14.93%
+2023,31,Yucatan,Armas_expl,0,0.00%
+2023,32,Zacatecas,Armas_expl,33,57.89%
+2023,1,Aguascalientes,Homicidio,2,0.78%
+2023,2,Baja California,Homicidio,1,1.85%
+2023,3,Baja California Sur,Homicidio,0,0.00%
+2023,4,Campeche,Homicidio,1,2.22%
+2023,5,Coahuila de Zaragoza,Homicidio,0,0.00%
+2023,6,Colima,Homicidio,2,5.71%
+2023,7,Chiapas,Homicidio,90,18.04%
+2023,8,Chihuahua,Homicidio,3,4.41%
+2023,9,Ciudad de Mexico,Homicidio,17,0.79%
+2023,10,Durango,Homicidio,0,0.00%
+2023,11,Guanajuato,Homicidio,0,0.00%
+2023,12,Guerrero,Homicidio,0,0.00%
+2023,13,Hidalgo,Homicidio,0,0.00%
+2023,14,Jalisco,Homicidio,0,0.00%
+2023,15,Mexico,Homicidio,9,0.96%
+2023,16,Michoacan de Ocampo,Homicidio,0,NA
+2023,17,Morelos,Homicidio,1,1.01%
+2023,18,Nayarit,Homicidio,1,1.06%
+2023,19,Nuevo Leon,Homicidio,0,0.00%
+2023,20,Oaxaca,Homicidio,NA,NA
+2023,21,Puebla,Homicidio,0,0.00%
+2023,22,Queretaro,Homicidio,0,0.00%
+2023,23,Quintana Roo,Homicidio,1,0.70%
+2023,24,San Luis Potosi,Homicidio,0,0.00%
+2023,25,Sinaloa,Homicidio,0,0.00%
+2023,26,Sonora,Homicidio,0,0.00%
+2023,27,Tabasco,Homicidio,0,0.00%
+2023,28,Tamaulipas,Homicidio,1,4.00%
+2023,29,Tlaxcala,Homicidio,0,0.00%
+2023,30,Veracruz de Ignacio de la Llave,Homicidio,1,1.49%
+2023,31,Yucatan,Homicidio,0,0.00%
+2023,32,Zacatecas,Homicidio,0,0.00%
+2023,1,Aguascalientes,Dano_prop,32,12.40%
+2023,2,Baja California,Dano_prop,1,1.85%
+2023,3,Baja California Sur,Dano_prop,1,50.00%
+2023,4,Campeche,Dano_prop,1,2.22%
+2023,5,Coahuila de Zaragoza,Dano_prop,4,3.10%
+2023,6,Colima,Dano_prop,0,0.00%
+2023,7,Chiapas,Dano_prop,0,0.00%
+2023,8,Chihuahua,Dano_prop,2,2.94%
+2023,9,Ciudad de Mexico,Dano_prop,17,0.79%
+2023,10,Durango,Dano_prop,0,0.00%
+2023,11,Guanajuato,Dano_prop,0,0.00%
+2023,12,Guerrero,Dano_prop,0,0.00%
+2023,13,Hidalgo,Dano_prop,0,0.00%
+2023,14,Jalisco,Dano_prop,0,0.00%
+2023,15,Mexico,Dano_prop,0,0.00%
+2023,16,Michoacan de Ocampo,Dano_prop,0,NA
+2023,17,Morelos,Dano_prop,1,1.01%
+2023,18,Nayarit,Dano_prop,5,5.32%
+2023,19,Nuevo Leon,Dano_prop,17,5.35%
+2023,20,Oaxaca,Dano_prop,NA,NA
+2023,21,Puebla,Dano_prop,2,4.76%
+2023,22,Queretaro,Dano_prop,0,0.00%
+2023,23,Quintana Roo,Dano_prop,1,0.70%
+2023,24,San Luis Potosi,Dano_prop,6,1.92%
+2023,25,Sinaloa,Dano_prop,0,0.00%
+2023,26,Sonora,Dano_prop,0,0.00%
+2023,27,Tabasco,Dano_prop,2,6.45%
+2023,28,Tamaulipas,Dano_prop,0,0.00%
+2023,29,Tlaxcala,Dano_prop,0,0.00%
+2023,30,Veracruz de Ignacio de la Llave,Dano_prop,1,1.49%
+2023,31,Yucatan,Dano_prop,15,28.85%
+2023,32,Zacatecas,Dano_prop,0,0.00%
+2023,1,Aguascalientes,Allana_mora,24,9.30%
+2023,2,Baja California,Allana_mora,0,0.00%
+2023,3,Baja California Sur,Allana_mora,0,0.00%
+2023,4,Campeche,Allana_mora,2,4.44%
+2023,5,Coahuila de Zaragoza,Allana_mora,1,0.78%
+2023,6,Colima,Allana_mora,1,2.86%
+2023,7,Chiapas,Allana_mora,0,0.00%
+2023,8,Chihuahua,Allana_mora,3,4.41%
+2023,9,Ciudad de Mexico,Allana_mora,14,0.65%
+2023,10,Durango,Allana_mora,0,0.00%
+2023,11,Guanajuato,Allana_mora,0,0.00%
+2023,12,Guerrero,Allana_mora,0,0.00%
+2023,13,Hidalgo,Allana_mora,0,0.00%
+2023,14,Jalisco,Allana_mora,0,0.00%
+2023,15,Mexico,Allana_mora,21,2.23%
+2023,16,Michoacan de Ocampo,Allana_mora,0,NA
+2023,17,Morelos,Allana_mora,8,8.08%
+2023,18,Nayarit,Allana_mora,4,4.26%
+2023,19,Nuevo Leon,Allana_mora,3,0.94%
+2023,20,Oaxaca,Allana_mora,NA,NA
+2023,21,Puebla,Allana_mora,0,0.00%
+2023,22,Queretaro,Allana_mora,0,0.00%
+2023,23,Quintana Roo,Allana_mora,3,2.10%
+2023,24,San Luis Potosi,Allana_mora,3,0.96%
+2023,25,Sinaloa,Allana_mora,0,0.00%
+2023,26,Sonora,Allana_mora,0,0.00%
+2023,27,Tabasco,Allana_mora,0,0.00%
+2023,28,Tamaulipas,Allana_mora,0,0.00%
+2023,29,Tlaxcala,Allana_mora,0,0.00%
+2023,30,Veracruz de Ignacio de la Llave,Allana_mora,1,1.49%
+2023,31,Yucatan,Allana_mora,3,5.77%
+2023,32,Zacatecas,Allana_mora,0,0.00%
+2023,1,Aguascalientes,Otros,17,6.59%
+2023,2,Baja California,Otros,2,3.70%
+2023,3,Baja California Sur,Otros,0,0.00%
+2023,4,Campeche,Otros,6,13.33%
+2023,5,Coahuila de Zaragoza,Otros,23,17.83%
+2023,6,Colima,Otros,23,65.71%
+2023,7,Chiapas,Otros,31,6.21%
+2023,8,Chihuahua,Otros,21,30.88%
+2023,9,Ciudad de Mexico,Otros,121,5.61%
+2023,10,Durango,Otros,5,50.00%
+2023,11,Guanajuato,Otros,0,0.00%
+2023,12,Guerrero,Otros,0,0.00%
+2023,13,Hidalgo,Otros,9,28.13%
+2023,14,Jalisco,Otros,3,15.00%
+2023,15,Mexico,Otros,135,14.33%
+2023,16,Michoacan de Ocampo,Otros,0,NA
+2023,17,Morelos,Otros,12,12.12%
+2023,18,Nayarit,Otros,15,15.96%
+2023,19,Nuevo Leon,Otros,27,8.49%
+2023,20,Oaxaca,Otros,0,NA
+2023,21,Puebla,Otros,4,9.52%
+2023,22,Queretaro,Otros,3,3.85%
+2023,23,Quintana Roo,Otros,20,13.99%
+2023,24,San Luis Potosi,Otros,15,4.81%
+2023,25,Sinaloa,Otros,2,22.22%
+2023,26,Sonora,Otros,0,0.00%
+2023,27,Tabasco,Otros,3,9.68%
+2023,28,Tamaulipas,Otros,5,20.00%
+2023,29,Tlaxcala,Otros,2,22.22%
+2023,30,Veracruz de Ignacio de la Llave,Otros,29,43.28%
+2023,31,Yucatan,Otros,9,17.31%
+2023,32,Zacatecas,Otros,2,3.51%
